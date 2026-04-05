@@ -1,5 +1,6 @@
 # Flipkart Sales Performance Dashboard
 
+<img width="1547" height="872" alt="Screenshot 2026-04-05 121626" src="https://github.com/user-attachments/assets/1b866e46-0fa4-4998-9198-c3e1a88c3ed2" />
 
 
 An interactive **Power BI dashboard** built to analyze Flipkart sales data and extract business insights related to revenue, profit, product categories, payment methods, and geographic distribution.
@@ -14,6 +15,9 @@ An interactive **Power BI dashboard** built to analyze Flipkart sales data and e
 * **Regional sales visualization across India**
 
 ## Data Model
+
+<img width="935" height="471" alt="Screenshot 2026-04-05 121639" src="https://github.com/user-attachments/assets/dcc119d7-22e4-4db0-9390-7b774ae9ec89" />
+
 
 The dashboard uses a **two-table relational model**:
 
